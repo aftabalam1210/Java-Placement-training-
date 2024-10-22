@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Array1 {
     public static void main(String[] args) {
         int arr[] = {8,5,7,9,6,47,25,26};
@@ -16,6 +17,8 @@ public class Array1 {
         for(int x : arr){
             System.out.println(x);
         }
+
+
 
 
 
