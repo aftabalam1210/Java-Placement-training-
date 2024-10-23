@@ -1,0 +1,6 @@
+features:
+add a new student
+display al student search for a student by id exit the system
+
+
+management system::::::
